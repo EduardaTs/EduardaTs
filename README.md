@@ -5,7 +5,7 @@
 
 <p align="center">
   Qualidade de software em produtos financeiros e em aplicações baseadas em LLMs:<br/>
-  testes funcionais, de segurança e de comportamento de IA.
+  testes funcionais, de comportamento de IA e de experiência do usuário.
 </p>
 
 <div align="center">
@@ -14,25 +14,16 @@
 
 ## Competências
 
-### Segurança de APIs (QA de segurança)
-
-Testes de segurança em APIs de produtos financeiros, com base no **OWASP API Security Top 10**:
-
-| Teste | Objetivo |
-|---|---|
-| **Controle de acesso (IDOR / BOLA)** | Verificar que um usuário não acessa dados de outro ao manipular identificadores em URLs e requisições |
-| **Autenticação e autorização** | Checar respostas a requisições sem token ou com token inválido, e a separação entre perfis de acesso |
-| **Validação de entrada** | Testar entradas malformadas, valores de fronteira e tipos inesperados nos parâmetros |
-| **Tratamento de erros** | Garantir que falhas não exponham informação sensível |
-| **Exposição da API** | Conferir exposição excessiva de dados e rotas de diagnóstico/administração acessíveis |
-
 ### Qualidade funcional e de produto
 
 | Área | Atuação |
 |---|---|
-| **Regras de negócio** | Testes funcionais em plataformas de crédito (ciclo requisição → proposta → simulação → aceite → operação), cenários positivos e negativos |
-| **Integridade de cálculo financeiro** | Conferência de que parcela, IOF e TAC se mantêm consistentes entre etapas e integrações |
-| **Testes de release** | Validação de produto financeiro antes do lançamento: fluxos críticos, regressão e critérios de aceite |
+| **Regras de negócio** | Testes funcionais em plataformas financeiras (ciclo requisição → proposta → simulação → aceite → operação), cenários positivos e negativos |
+| **Integridade de cálculo financeiro** | Conferência de que parcela, juros e encargos se mantêm consistentes entre etapas e integrações |
+| **Validação de notificações** | Conferência do disparo e do conteúdo de e-mails e notificações a partir das ações no sistema: momento, valores, datas e textos |
+| **Teste exploratório orientado a risco** | Formulação e verificação de hipóteses de falha, além do roteiro planejado |
+| **Verificação de identidade e cadastro** | Testes em fluxos de KYC / validação facial e cadastros de pessoa física e jurídica: obrigatoriedade, formato, limites e persistência |
+| **Evidências e severidade** | Documentação de casos e evidências, com classificação de defeitos por severidade |
 | **QA de frontend** | Depuração com DevTools (Console/Network): erros de JavaScript e requisições falhas |
 | **Usabilidade (UX heurística)** | Avaliação sob a ótica do usuário iniciante, identificando pontos de atrito |
 
@@ -79,7 +70,7 @@ Concebi o produto e desenhei os contextos de conversa e o design responsável. I
 
 ## Testes e qualidade
 
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" /> <img src="https://img.shields.io/badge/OWASP_API_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP API Top 10" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
 
 ## Tecnologias dos projetos
 
