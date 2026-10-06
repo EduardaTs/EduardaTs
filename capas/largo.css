@@ -1,0 +1,9 @@
+html,body{margin:0;width:1280px;height:440px;overflow:hidden}
+body{background:radial-gradient(circle at 25% 30%,#5A1424,#2A0810 55%,#12040A);font-family:'Segoe UI',Arial,sans-serif;position:relative;color:#EDE3D2}
+.borda{position:absolute;inset:8px;border:2px solid #C8AA6E;border-radius:14px;opacity:.65}
+.texto{position:absolute;left:64px;top:70px;width:470px}
+.tag{color:#E85A8E;font:700 15px Georgia,serif;letter-spacing:4px}
+h1{margin:10px 0 6px;color:#C8AA6E;font:700 64px Georgia,'Times New Roman',serif;letter-spacing:6px}
+h2{margin:0 0 22px;color:#E6CF9C;font:400 24px 'Segoe UI',Arial;letter-spacing:.5px}
+.pilulas span{display:inline-block;margin:0 8px 10px 0;padding:6px 14px;border:1px solid #C8AA6E;border-radius:20px;font-size:15px;color:#EDE3D2;background:#3A0C1880}
+.visual{position:absolute;right:56px;top:0;bottom:0;display:flex;align-items:center;justify-content:center;width:640px}

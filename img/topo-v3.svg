@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="232" viewBox="0 0 840 232">
+<defs>
+<radialGradient id="f" cx=".5" cy="0" r="1.2"><stop offset="0" stop-color="#5A1424"/><stop offset=".55" stop-color="#2A0810"/><stop offset="1" stop-color="#12040A"/></radialGradient>
+<linearGradient id="o" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5A1424"/><stop offset=".5" stop-color="#C8AA6E"/><stop offset="1" stop-color="#5A1424"/></linearGradient>
+
+</defs>
+<rect width="840" height="232" rx="12" fill="url(#f)"/>
+<rect x="6" y="6" width="828" height="220" rx="8" fill="none" stroke="url(#o)" stroke-width="1.5"/>
+<rect x="11" y="11" width="818" height="210" rx="6" fill="none" stroke="#7D2236" stroke-opacity=".7"/>
+<g transform="translate(420.0,44) scale(1.7)">
+<path d="M0 7 C-1 11 1 14 0 18" stroke="#785A28" stroke-width="1.3" fill="none"/>
+<path d="M0 12 C4 9 8 10 9 13 C5 15 2 14 0 12Z" fill="#785A28"/>
+<path d="M0 13 C-4 10 -8 11 -9 14 C-5 16 -2 15 0 13Z" fill="#5E4520"/>
+<path d="M-10 -2 C-13 -8 -9 -12 -4 -10 C-7 -5 -5 2 0 6 C-6 6 -9 3 -10 -2Z" fill="#3A0C18" stroke="#C8AA6E" stroke-width=".7"/>
+<path d="M10 -2 C13 -8 9 -12 4 -10 C7 -5 5 2 0 6 C6 6 9 3 10 -2Z" fill="#3A0C18" stroke="#C8AA6E" stroke-width=".7"/>
+<path d="M-7 -4 C-8 -11 -2 -13 0 -9 C2 -13 8 -11 7 -4 C6 3 -6 3 -7 -4Z" fill="#5A1424" stroke="#C8AA6E" stroke-width=".7"/>
+<path d="M-4 -6 C-4 -10 0 -11 1 -8 C3 -10 5 -8 4 -5 C3 -1 -3 -1 -4 -6Z" fill="#7D2236" stroke="#C8AA6E" stroke-width=".6"/>
+<path d="M-1.5 -6.5 C-1 -8.5 2 -8.5 2 -6.5 C2 -5 0 -4.5 -.5 -5.5" fill="none" stroke="#C8AA6E" stroke-width=".7"/>
+</g>
+<text x="420.0" y="118" text-anchor="middle" font-family="'Beaufort for LOL',Cinzel,Georgia,'Times New Roman',serif" font-size="40" font-weight="700" letter-spacing="8" fill="#C8AA6E">EDUARDA THIEL</text>
+<text x="420.0" y="150" text-anchor="middle" font-family="'Beaufort for LOL',Cinzel,Georgia,'Times New Roman',serif" font-size="16" letter-spacing="4" fill="#E6CF9C" opacity="0">QA ENGINEER · FOCO EM IA<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.08;.42;.5;1" dur="7s" begin="0.0s" repeatCount="indefinite"/></text><text x="420.0" y="150" text-anchor="middle" font-family="'Beaufort for LOL',Cinzel,Georgia,'Times New Roman',serif" font-size="16" letter-spacing="4" fill="#E6CF9C" opacity="0">CRIADORA DO DUDA, AMEL.IA E LUMI<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.08;.42;.5;1" dur="7s" begin="3.5s" repeatCount="indefinite"/></text>
+<rect x="182.60000000000002" y="180" width="114" height="28" rx="14" fill="#C8AA6E" stroke="#C8AA6E" stroke-opacity=".6"/><text x="239" y="199" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1" fill="#1A0D04">QA Engineer</text><rect x="306.20000000000005" y="180" width="159" height="28" rx="14" fill="#3A0C18" stroke="#C8AA6E" stroke-opacity=".6"/><text x="386" y="199" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1" fill="#E6CF9C">Avaliação de LLMs</text><rect x="475.40000000000003" y="180" width="182" height="28" rx="14" fill="#3A0C18" stroke="#C8AA6E" stroke-opacity=".6"/><text x="566" y="199" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1" fill="#E6CF9C">Engenharia de prompt</text>
+</svg>

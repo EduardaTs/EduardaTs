@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352">
+<defs>
+<radialGradient id="f" cx=".2" cy=".3" r="1.2"><stop offset="0" stop-color="#5A1424"/><stop offset=".55" stop-color="#2A0810"/><stop offset="1" stop-color="#12040A"/></radialGradient>
+<linearGradient id="o" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5A1424"/><stop offset=".5" stop-color="#C8AA6E"/><stop offset="1" stop-color="#5A1424"/></linearGradient>
+</defs>
+<rect width="900" height="352" rx="12" fill="url(#f)"/>
+<rect x="6" y="6" width="888" height="340" rx="8" fill="none" stroke="url(#o)" stroke-width="1.5"/>
+<g transform="translate(150 150) scale(1.05)">
+<circle r="96" fill="#3A0C18" stroke="#C8AA6E" stroke-width="3"/>
+<circle r="88" fill="none" stroke="#E85A8E" stroke-opacity=".35" stroke-width="2"/>
+<path d="M-58 22 C-66 -38 -40 -70 0 -70 C40 -70 66 -38 58 22 C62 46 52 64 40 72 L-40 72 C-52 64 -62 46 -58 22Z" fill="#2A0A12"/>
+<ellipse cx="0" cy="10" rx="46" ry="52" fill="#F6D7C3"/>
+<path d="M-50 -6 C-46 -52 -14 -60 6 -56 C30 -54 48 -38 50 -8 C38 -24 24 -30 10 -30 C14 -22 12 -16 6 -12 C2 -26 -12 -32 -26 -28 C-34 -24 -44 -16 -50 -6Z" fill="#3B0F1C"/>
+<path d="M-22 -50 C-12 -56 6 -58 18 -52" stroke="#5A1424" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g fill="#2A0A12">
+<ellipse cx="-18" cy="10" rx="9.5" ry="12"/><ellipse cx="18" cy="10" rx="9.5" ry="12"/>
+</g>
+<g fill="#E85A8E" fill-opacity=".9"><ellipse cx="-18" cy="13" rx="6" ry="7.5"/><ellipse cx="18" cy="13" rx="6" ry="7.5"/></g>
+<g fill="#FFFFFF"><circle cx="-21" cy="6" r="3.6"/><circle cx="15" cy="6" r="3.6"/><circle cx="-15" cy="16" r="1.6"/><circle cx="21" cy="16" r="1.6"/></g>
+<path d="M-29 -4 C-24 -9 -14 -9 -9 -5 M9 -5 C14 -9 24 -9 29 -4" stroke="#2A0A12" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<ellipse cx="-30" cy="30" rx="9" ry="5" fill="#E85A8E" fill-opacity=".35"/><ellipse cx="30" cy="30" rx="9" ry="5" fill="#E85A8E" fill-opacity=".35"/>
+<path d="M-9 36 C-4 42 4 42 9 36" stroke="#7D2236" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<path d="M-52 4 C-56 -46 -24 -74 0 -74 C24 -74 56 -46 52 4" stroke="#C8AA6E" stroke-width="5" fill="none" stroke-linecap="round"/>
+<rect x="-62" y="-4" width="16" height="30" rx="7" fill="#5A1424" stroke="#C8AA6E" stroke-width="2"/>
+<rect x="46" y="-4" width="16" height="30" rx="7" fill="#5A1424" stroke="#C8AA6E" stroke-width="2"/>
+<path d="M-54 24 C-54 48 -36 56 -18 54" stroke="#C8AA6E" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="-15" cy="54" r="5" fill="#E85A8E" stroke="#C8AA6E" stroke-width="1.5"/>
+<path d="M-6 -62 l5 -9 5 9 -5 -3z" fill="#C8AA6E"/>
+</g>
+<rect x="105" y="286.0" width="5" height="8" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="8;4;8" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="286.0;288;286.0" dur="1.0s" repeatCount="indefinite"/></rect><rect x="114" y="282.0" width="5" height="16" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="16;6;16" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="282.0;287;282.0" dur="1.3s" repeatCount="indefinite"/></rect><rect x="123" y="277.0" width="5" height="26" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="26;10;26" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="277.0;285;277.0" dur="1.6s" repeatCount="indefinite"/></rect><rect x="132" y="283.0" width="5" height="14" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="14;6;14" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="283.0;287;283.0" dur="1.0s" repeatCount="indefinite"/></rect><rect x="141" y="275.0" width="5" height="30" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="30;12;30" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="275.0;284;275.0" dur="1.3s" repeatCount="indefinite"/></rect><rect x="150" y="281.0" width="5" height="18" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="18;7;18" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="281.0;286;281.0" dur="1.6s" repeatCount="indefinite"/></rect><rect x="159" y="285.0" width="5" height="10" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="10;4;10" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="285.0;288;285.0" dur="1.0s" repeatCount="indefinite"/></rect><rect x="168" y="279.0" width="5" height="22" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="22;9;22" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="279.0;286;279.0" dur="1.3s" repeatCount="indefinite"/></rect><rect x="177" y="284.0" width="5" height="12" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="12;5;12" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="284.0;288;284.0" dur="1.6s" repeatCount="indefinite"/></rect><rect x="186" y="287.0" width="5" height="6" rx="2.5" fill="#E85A8E" opacity=".85"><animate attributeName="height" values="6;4;6" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="287.0;288;287.0" dur="1.0s" repeatCount="indefinite"/></rect>
+<text x="300" y="72" font-family="'Cinzel','Trajan Pro','Georgia',serif" font-size="38" font-weight="700" letter-spacing="6" fill="#C8AA6E">AMÉLIA</text>
+<text x="302" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#E6CF9C">Agente de IA por voz para o computador</text>
+<rect x="300" y="122" width="420" height="46" rx="14" fill="#5A1424" stroke="#E85A8E" stroke-opacity=".7"/><text x="316" y="139" font-family="'Cinzel','Trajan Pro','Georgia',serif" font-size="10" letter-spacing="2" fill="#E85A8E">EDUARDA</text><text x="316" y="157" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#FFFFFF">Mel, meu top sabe jogar com esse boneco?</text>
+<rect x="330" y="178" width="470" height="46" rx="14" fill="#3A0C18" stroke="#C8AA6E" stroke-opacity=".7"/><text x="346" y="195" font-family="'Cinzel','Trajan Pro','Georgia',serif" font-size="10" letter-spacing="2" fill="#C8AA6E">AMÉLIA</text><text x="346" y="213" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#EDE3D2">Sabe sim! 104 partidas de Irelia e 49% de vitória.</text>
+<rect x="300" y="234" width="360" height="46" rx="14" fill="#5A1424" stroke="#E85A8E" stroke-opacity=".7"/><text x="316" y="251" font-family="'Cinzel','Trajan Pro','Georgia',serif" font-size="10" letter-spacing="2" fill="#E85A8E">EDUARDA</text><text x="316" y="269" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#FFFFFF">Bota Make You Mine no Spotify.</text>
+<rect x="330" y="288" width="300" height="46" rx="14" fill="#3A0C18" stroke="#C8AA6E" stroke-opacity=".7"/><text x="346" y="305" font-family="'Cinzel','Trajan Pro','Georgia',serif" font-size="10" letter-spacing="2" fill="#C8AA6E">AMÉLIA</text><text x="346" y="323" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#EDE3D2">Prontinho, tocando agora.</text>
+</svg>

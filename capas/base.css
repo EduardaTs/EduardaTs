@@ -1,0 +1,4 @@
+html,body{margin:0;width:640px;height:400px;overflow:hidden}
+body{background:radial-gradient(circle at 30% 20%,#5A1424,#2A0810 60%,#12040A);font-family:'Segoe UI',Arial,sans-serif;position:relative}
+.borda{position:absolute;inset:6px;border:1.5px solid #C8AA6E;border-radius:10px;opacity:.7}
+.tag{position:absolute;left:22px;top:18px;color:#C8AA6E;font:700 13px Georgia,serif;letter-spacing:3px}
